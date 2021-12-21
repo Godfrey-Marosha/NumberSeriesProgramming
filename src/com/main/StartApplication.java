@@ -24,7 +24,7 @@ public class StartApplication extends Application {
     private TextArea txtAreaFibonacciOutput;
 
     public static void main(String[] args) {
-        launch(args); // Calling the Javafx.
+        launch(args); // Calling JavaFX here
     }
 
     @Override
@@ -202,6 +202,4 @@ public class StartApplication extends Application {
 
         return vbFibonacci;
     }
-
-
 }
