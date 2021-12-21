@@ -43,7 +43,7 @@ public class NumberSeries {
         return fibonacciList;
     }
 
-    // Works out the prime number list.
+    // Works out the prime number list here.
     public static ArrayList getPrimeList(int size){
         ArrayList<Integer> primeList = new ArrayList<>();
 
