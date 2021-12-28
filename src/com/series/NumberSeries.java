@@ -26,6 +26,7 @@ public class NumberSeries {
     }
 
     // More resource intensive.
+
     private static ArrayList getFibonacciLoop(int maxNumber){
         ArrayList fibonacciList = new ArrayList();
         int prevNumber = -1;
